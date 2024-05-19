@@ -6,3 +6,4 @@
 6.Type (npm run start) 
 7.chat app opens in 3000 port in your defult browser
 
+
